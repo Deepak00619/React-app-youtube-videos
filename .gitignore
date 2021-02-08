@@ -10,6 +10,7 @@
 
 # production
 /build
+/apis/youtube
 
 # misc
 .DS_Store
