@@ -3,7 +3,7 @@
 
 ![](https://github.com/Deepak00619/React-app-youtube-videps/blob/master/pic/yutbProjct.png)
 
-# it uses youtube api to show video, you search videos using search bar.
+## it uses youtube api to show video, you can search videos using search bar.
 
 # For locally
 
