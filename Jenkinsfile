@@ -2,14 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('hello') {
+        stage('DEV') {
             steps {
-                echo 'Hellobat'
-            }
-        }
-        stage('abc') {
-            steps {
-                echo 'Hello World'
+               bat 'newman run Sample.postman_collection.json'
             }
         }
     }
